@@ -1,10 +1,1 @@
-<VAST version="3.0">
-  <Ad>
-    <InLine>
-      <AdSystem>EmptyAdSystem</AdSystem>
-      <AdTitle>NoAdTitle</AdTitle>
-      <Impression></Impression>
-      <Creatives></Creatives>
-    </InLine>
-  </Ad>
-</VAST>
+<VAST version="3.0"></VAST>
